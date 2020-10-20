@@ -1,0 +1,61 @@
+#header-nav {
+    background-color: rgb(175, 169, 169);
+    border-radius: 0;
+    min-height: 70px;
+    color:black;
+    font-family:  Helvetica;
+    border: 2px solid black;
+  }
+
+  .navbar-brand h1 {
+    font-family: serif;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: .75;
+    color:black;
+  }
+  
+.text-background{
+    background-color: rgb(175, 169, 169);
+}
+
+p{
+    font-family:Helvetica ;
+    font-weight: 500;
+
+}
+  
+  #nav-list a {
+    background: whitesmoke;
+    border-bottom: 2px solid black;
+    color: black;
+  }
+   #collapsable-nav #sushi{
+      border-bottom: 0px;
+   }
+  
+   
+  
+  /*.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+  
+  #page-title {
+    font-weight: bold;
+    margin-bottom: 30px;
+  }*/
+  
+  #main-text {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  
+  h3 {
+     color: black;
+     font-size: large;
+  }
